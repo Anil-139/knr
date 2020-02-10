@@ -2,5 +2,7 @@ This is my first file on GitHub
 
 i will code more later
 
+until then just learn about Git 
+
 Regards,
 Anil
